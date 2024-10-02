@@ -4,7 +4,7 @@
     "all": "minecraft:block/stone",
     "particle": "minecraft:block/stone",
     "overlay": "atom:block/ore/beryl",
-    "overlayup": "minecraft:block/stone",
-    "overlaydown": "minecraft:block/stone"
+    "overlayup": "atom:block/ore/berylup",
+    "overlaydown": "atom:block/ore/berylup"
   }
 }
