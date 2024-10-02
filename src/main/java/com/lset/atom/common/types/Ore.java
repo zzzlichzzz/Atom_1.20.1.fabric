@@ -16,9 +16,6 @@ public enum Ore
     silver,
     gold,
     autunite,
-    thorium,
-    radium,
-    plutonium,
     kimberlite,
     quartz,
     beryl,
@@ -26,6 +23,7 @@ public enum Ore
     gypsum,
     graphite,
     niter,
-    borax;
+    borax,
+    coal;
 
 }
