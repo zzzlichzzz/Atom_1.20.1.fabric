@@ -1,8 +1,10 @@
 {
-  "parent": "atom:block/main/ore",
+  "parent": "atom:block/main/oreup",
   "textures": {
     "all": "minecraft:block/stone",
     "particle": "minecraft:block/stone",
-    "overlay": "atom:block/ore/gypsum"
+    "overlay": "atom:block/ore/gypsum",
+    "overlayup": "minecraft:block/stone",
+    "overlaydown": "minecraft:block/stone"
   }
 }
