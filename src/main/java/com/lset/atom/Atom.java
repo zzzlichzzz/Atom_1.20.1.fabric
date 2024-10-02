@@ -23,7 +23,7 @@ public class Atom implements ModInitializer {
 
 		//Регистрация комманд
 		CommandRegistrationCallback.EVENT.register(((dispatcher, registryAccess, environment) -> {
-			ModCommands.register(dispatcher);  //Регистрирование команды
+			ModCommands.register(dispatcher);
 		}));
 
 	}
